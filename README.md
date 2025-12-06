@@ -4,8 +4,8 @@ A React Native application demonstrating stack navigation using React Navigation
 
 ## Student Information
 
-- **Name:** Tiffany Lyssa Palagaganas
-- **Student ID:** 202302164
+- **Name:** Francesca Ella M. Sapida
+- **Student ID:** 202305512
 - **Course:** Mobile Application Development
 - **Date:** December 02, 2025
 
